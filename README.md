@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://github.com/ATS527/ATS527/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;Peeps/&gt; !
+  𝐇𝐞𝐥𝐥𝐨, &lt;Guys/&gt; !
   <a target="_blank">
     <img src="https://github.com/ATS527/ATS527/blob/main/Hi.gif" width="40px" />
   </a>
