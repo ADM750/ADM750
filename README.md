@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **College Stuff and Competitive Programming**
 - 👯 I’m looking to collaborate on **Flutter Cross Platform Development**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/ATS527/ATS527/issues/1) ! I am happy to help.
+- 💬 Ask me about Anything I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 
